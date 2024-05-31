@@ -11,7 +11,7 @@ import time
 login_time = 30                 # Time for login (in seconds)
 new_msg_time = 5                # TTime for a new message (in seconds)
 send_msg_time = 5               # Time for sending a message (in seconds)
-country_code = 91               # Set your country code
+country_code = 92               # Set your country code
 action_time = 2                 # Set time for button click action
 image_path = 'image.png'        # Absolute path to you image
 
